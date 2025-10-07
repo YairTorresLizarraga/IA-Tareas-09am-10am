@@ -17,3 +17,6 @@ graph TD
 ## Unidad 1
 
 - [Test-1](U1/Tarea1/README.md)
+
+## Unidad 2
+- [Tarea-1](U2/Tarea2/README.md)
