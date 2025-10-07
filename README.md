@@ -4,7 +4,7 @@
 --
 ## Integrantes
 - **Yair Torres Lizarraga**
-- **Jose Daniel**
+- **José Daniel Medrano Ibarra**
 ## Profesor
 **Zuriel Dathan Mora Felix**
 
