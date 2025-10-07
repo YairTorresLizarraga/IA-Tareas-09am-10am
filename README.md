@@ -1,8 +1,16 @@
 # IA-Tareas-09am-10am
 ---
+> En este repo se presentan las tareas correspondientes a la materia Inteligencia Artificial. 
+--
 ## Integrantes
 - **Yair Torres Lizarraga**
 - **Jose Daniel**
-> En este repo se presentan las tareas correspondientes a la materia Inteligencia Artificial inpartida por el profesor
-**Prof. Zuriel Dathan Mora Felix**
+## Profesor
+**Zuriel Dathan Mora Felix**
 
+```mermaid
+graph TD
+  Test --> Mermaid
+  Mermaid --> API
+  MarkDown --> Rules
+```
